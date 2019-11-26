@@ -1,0 +1,7 @@
+f=open('f:/abcde.txt', 'a')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.close()
+print('Message written successfully without replacing, after the previous data  ')

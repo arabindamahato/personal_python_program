@@ -1,0 +1,7 @@
+f=open('f:/abcde.txt', 'w')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.write('Arabinda Loves Python \n')
+f.close()
+print('Message weitten successfully')
